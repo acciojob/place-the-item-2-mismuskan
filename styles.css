@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	justify-content:center;
-	flex-wrap:wrap-reverse
+	flex-wrap:wrap;
 }
 .item{
 height:200px;	
